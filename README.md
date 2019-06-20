@@ -6,10 +6,21 @@ ___
 
 ## **insterclone**
 
-### **Setup**
+### **Setup insterclone**
 
 ```bash
 laravel new insterclone
 npm install
 npm run dev
+```
+
+___
+
+## **crudblogs**
+
+### **Setup crudblogs**
+
+```bash
+composer create-project laravel/laravel crudblogs
+php artisan make:controller PageController
 ```
