@@ -24,3 +24,7 @@ ___
 composer create-project laravel/laravel crudblogs
 php artisan make:controller PageController
 ```
+
+___
+
+## [Brad](https://www.youtube.com/watch?v=bSG2YMqJJys&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-&index=4)
