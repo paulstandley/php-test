@@ -20,7 +20,8 @@ class PageController extends Controller
 
     public function services() {
         $data = array(
-            'title' => 'Welcome to Severces'
+            'title' => 'Welcome to Severces',
+            'services' => ['Web Dev', 'Progarming', 'SEO'] 
         );
         return view('pages.services')->with($data);
     }

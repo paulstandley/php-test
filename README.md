@@ -23,6 +23,9 @@ ___
 ```bash
 composer create-project laravel/laravel crudblogs
 php artisan make:controller PageController
+npm install
+npm run dev
+npm run watch
 ```
 
 ___
