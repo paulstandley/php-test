@@ -13,7 +13,7 @@
         <a class="nav-link" href="/about">About</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="php/test/php-test/crudblogs/public/services">Services</a>
+        <a class="nav-link" href="/services">Services</a>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
